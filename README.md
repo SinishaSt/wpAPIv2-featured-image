@@ -1,0 +1,1 @@
+# wpAPIv2-featured-image
